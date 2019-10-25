@@ -9,7 +9,7 @@ This repository is created in order to submit the necessary code for establishin
 - [Raspberry Pi code](#raspberry-pi-code)
 
 ## Arduino code
-<a href="https://www.arduino.cc"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" alt="Arduino Logo" align="left" style="margin-right: 25px" height=150></a>
+<a href="https://www.arduino.cc"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" alt="Arduino Logo" align="right" style="margin-right: 25px" height=150></a>
 
 The Arduino code is very simple. It just opens the serial communication and it writes a 1 or a 0 in the pin depending on the letter it is send.
 
@@ -34,7 +34,7 @@ void loop() {
 ```
 
 ## Raspberry Pi code
-<a href="https://www.raspberrypi.org"><img src="https://www.raspberrypi.org/wp-content/uploads/2012/03/raspberry-pi-logo.png" alt="Raspberry Pi Logo" align="left" style="margin-right: 25px" height=150></a>
+<a href="https://www.raspberrypi.org"><img src="https://www.raspberrypi.org/wp-content/uploads/2012/03/raspberry-pi-logo.png" alt="Raspberry Pi Logo" align="right" style="margin-right: 25px" height=150></a>
 
 We will program the Raspberry Pi functionality in Python. This way, a minimun knowledge about the language in necessary.
 
