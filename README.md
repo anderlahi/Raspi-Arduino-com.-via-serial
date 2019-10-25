@@ -1,4 +1,4 @@
-# Raspi-Arduino-com.-via-serial
+# RaspiArduinoSerial
 This repository is created in order to submit the necessary code for establishing a communication between Arduino and Raspberry via serial connection. It is as simple as connecting the Arduino supply wire into the Raspberry Pi USB entry and making the following connection in the Arduino:
 
 ![Arduino connection](/images/img.png)
